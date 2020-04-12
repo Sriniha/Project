@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586665060812.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D14A047B",
+    "lastKnownWriteTime" : 1586676267,
+    "last_content_update" : 1586676267875,
+    "path" : "C:/Users/91709/OneDrive/Desktop/Project/first.R",
+    "project_path" : "first.R",
+    "properties" : {
+        "cursorPosition" : "1,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
